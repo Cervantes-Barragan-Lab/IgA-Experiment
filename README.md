@@ -1,4 +1,4 @@
-<h1>Gut Microbiota and IgA Interactions</h1>
+<h1>Gut Microbiota and IgA</h1>
 
 <p>This repository contains the code, data, and results associated with the research project focused on understanding the impact of the gut microbiome on immunoglobulin A (IgA) production and its interaction with dietary factors. The research aims to uncover the relationship between the gut microbiota, dietary fiber content, and the production of IgA, a critical antibody for maintaining gut immunity and defending against pathogens.</p>
 
