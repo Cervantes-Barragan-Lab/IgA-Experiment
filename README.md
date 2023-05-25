@@ -13,9 +13,9 @@
 
 <h2>Repository Contents</h2>
 <ul>
-  <li><code>code/</code>: Contains scripts for data analysis, statistical analysis, and predictive modeling.</li>
+  <li><code>LASSO-Data/</code>: Contains the data used to construct the LASSO predictive models.</li>
   <li><code>data/</code>: Includes data files used in the research project, such as IgA concentrations, 16s rRNA sequencing data, and associated metadata.</li>
-  <li><code>results/</code>: Provides summarized results, figures, and visualizations obtained from the data analysis.</li>
+  <li><code>LASSO-Predictive-Models/</code>: The raw source code for the HTML file generated from knitting my RMarkdown file containing the R code for the LASSO model creation process. The fully rendered HTML with an interactive table of contents can be found here: https://cervantes-barragan-lab.github.io/IgA-Experiment/LASSO-Predictive-Models-for-IgA-Plasma-and-B-Cells.html#LASSO_Model_to_Predict_LP_IgA_Plasma_Cells</li>
   <li><code>README.md</code>: The file you are currently reading, offering a concise but thorough summary of the research project, its objectives, methodology, and repository contents.</li>
   <li><code>LICENSE</code>: Specifies the license information for the code and data in this repository.</li>
 </ul>
